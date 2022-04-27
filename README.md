@@ -1,1 +1,9 @@
-# AutomationJava_QA11
+# Automation Java Project
+
+## Stack :
+ - Java 11
+ - Maven 
+ - Selenium 
+ - ..... 
+
+
